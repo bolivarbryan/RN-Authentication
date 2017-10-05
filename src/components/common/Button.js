@@ -19,17 +19,17 @@ const styles = {
     fontSize: 16,
     fontWeight: '600',
     paddingTop: 10,
-    paddingBottom: 10
+    paddingBottom: 10,
+    flex: 1
   },
   buttonStyle: {
     alignSelf: 'stretch',
     backgroundColor: 'transparent',
     borderRadius: 5,
     borderWidth: 1,
-    borderColor: 'transparent',
+    borderColor: '#007aff',
     marginLeft: 5,
     marginRight: 5,
-    width: 60,
     height: 40,
     marginTop: 20
   }
